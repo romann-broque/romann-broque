@@ -4,5 +4,5 @@
 
 # Github Stats:
 
-![Romann BROQUE - GitHub stats](https://github-readme-stats.vercel.app/api?username=romann-broque&show_icons=true&theme=dracula)
+![Romann BROQUE - GitHub stats](https://github-readme-stats.vercel.app/api?username=romann-broque&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romann-broque&layout=compact&theme=dark)
