@@ -1,6 +1,7 @@
 # Romann Broque
 
 🏗️ Software Engineer in Paris
+
 Work on compliance systems in the energy sector, regulatory stuff where the software needs to be right because real operations depend on it.
 
 Try to spend enough time understanding the problem before jumping into the code, even if that means going slower at first.
