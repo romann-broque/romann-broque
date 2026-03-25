@@ -1,6 +1,6 @@
 # Romann Broque
 
-🏗️ Software Engineer in Paris
+🏗️ Software Engineer
 
 Work on compliance systems in the energy sector, regulatory stuff where the software needs to be right because real operations depend on it.
 
