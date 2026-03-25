@@ -1,11 +1,14 @@
-# Introduction
+# Romann Broque
 
-> 👋 Hi! I’m a [42](https://www.42.fr/) student (Paris, France).
-<p align="center">
-  <img src="https://github.com/romann-broque/romann-broque/assets/58867296/fd6021d1-3c10-44d9-81e0-bcbff284e444">
-</p>
+🏗️ Software Engineer @ TotalEnergies Digital Factory, Paris
+Work on compliance systems in the energy sector, regulatory stuff where the software needs to be right because real operations depend on it.
 
-# Github Stats:
+Try to spend enough time understanding the problem before jumping into the code, even if that means going slower at first.
 
-![Romann BROQUE - GitHub stats](https://github-readme-stats.vercel.app/api?username=romann-broque&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romann-broque&layout=compact&theme=merko)
+Like building tools when I think they can save time for others, a couple of them ended up here.
+
+Studied at 42 Paris, a peer-to-peer school with no teachers.
+
+I teach C and Bash on the side.
+
+📍 Paris · [LinkedIn](https://www.linkedin.com/in/rbroque)
